@@ -63,6 +63,15 @@ h1 {
     animation: block 8s infinite linear;
 }
 
+#cloud{
+    width:10px;
+    height: auto;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    animation: block 10s infinite linear;
+}
+
 @keyframes jump{
     0%{top: 100px;}
     30%{top: 100px;}
